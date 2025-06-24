@@ -1,4 +1,5 @@
-# vst-plugin-boilerplate
+# vst-plugin-boilerplate-1sek-main
+# 1seks-to-be-stripped-back-vst
 ## Checklist before releasing plugin
 
  * register unique ID for the plugin in `./src/global.h`
