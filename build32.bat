@@ -15,3 +15,4 @@ cmake --build build32 --config Release
 rename build32\VST3\Release\__PLUGIN_NAME__.vst3\Contents\x86-win\__PLUGIN_NAME__.vst3 __PLUGIN_NAME__.dll
 
 cd ..
+
