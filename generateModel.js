@@ -394,4 +394,11 @@ function generateUI() {
     }
 })();
 
+module.exports = {
+    generateParamIds,
+    generateVstHeader,
+    generateVstImpl,
+    generateController,
+    generateUI
+};
 
