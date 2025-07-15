@@ -401,4 +401,3 @@ module.exports = {
     generateController,
     generateUI
 };
-
