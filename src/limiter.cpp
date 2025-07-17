@@ -99,4 +99,3 @@ void Limiter::recalculate()
     rel  = ( float )  pow( 10.0, -2.0 - ( 3.0 * pRelease ));
 }
 
-
