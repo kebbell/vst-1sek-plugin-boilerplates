@@ -98,3 +98,5 @@ void Limiter::recalculate()
     att  = ( float )  pow( 10.0, -2.0 * pAttack );
     rel  = ( float )  pow( 10.0, -2.0 - ( 3.0 * pRelease ));
 }
+
+

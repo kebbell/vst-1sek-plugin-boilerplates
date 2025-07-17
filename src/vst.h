@@ -110,3 +110,5 @@ class __PLUGIN_NAME__ : public AudioEffect
 }
 
 #endif
+
+
