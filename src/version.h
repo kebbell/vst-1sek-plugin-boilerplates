@@ -1,4 +1,4 @@
-#ifndef __VERSION_HEADER__
+// #ifndef __VERSION_HEADER__
 #define __VERSION_HEADER__
 
 #define INT_TO_STR(x) #x
